@@ -1,0 +1,2 @@
++ Quantifying change in an author's writing style ​over their career by analyzing their major works
+- ​How does a writer's style change over time? Do major literary authors have noticeable shifts in their usage of the language? We seek to discover this information by analyzing novels in public domain. Over the course of this project, we aim to build a curriculum for an undergraduate course in Digital Humanities to educate non-STEM students in computational thinking and developing a data-oriented mindset.
